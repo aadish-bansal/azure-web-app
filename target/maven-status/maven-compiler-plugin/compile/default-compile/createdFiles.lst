@@ -1,0 +1,5 @@
+com\nagarro\app\test\user\controller\HomeController.class
+com\nagarro\app\test\user\service\UserService.class
+com\nagarro\app\test\user\TestUserApplication.class
+com\nagarro\app\test\user\entity\User.class
+com\nagarro\app\test\user\repository\UserRepository.class
