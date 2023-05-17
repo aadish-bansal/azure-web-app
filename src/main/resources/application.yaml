@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://testdbserver02.database.windows.net:1433;database=test-server;user=user@testdbserver02;password=rootroot@0;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30
+
+  jpa:
+    hibernate:
+      ddlAuto: update
