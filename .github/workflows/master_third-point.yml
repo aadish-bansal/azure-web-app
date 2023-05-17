@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'third-point'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFF359A7058A4315B47C4D37255D714F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8BA60FC42BD4CDA8CA352CA91E88939 }}
           package: '*.jar'
